@@ -1,0 +1,4 @@
+SocksPort 0.0.0.0:9050 #proxy port
+SocksPolicy accept 10.0.0.0/8 #subnet
+
+#you can add other options in this file
